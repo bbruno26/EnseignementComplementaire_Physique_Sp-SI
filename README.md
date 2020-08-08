@@ -6,10 +6,10 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/bbruno26/EnseignementComplementaire_Physique_Sp-SI/ddb6e13ed22fb201babb42837264a48588212236
 
 ## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
+The `requirement.txt` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
 
 ```
